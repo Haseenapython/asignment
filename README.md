@@ -15,4 +15,4 @@ while(i <  num):
     n2 = Next
     i = i + 1
     
-print("\nSum of Fibonacci Series Numbers: %d" %Sum)
+
